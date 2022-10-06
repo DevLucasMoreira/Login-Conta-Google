@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginGoogleAccount</string>
+    <string name="edit_usuario">Usuário</string>
+    <string name="edit_senha">Senha</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="text_ou">ou</string>
+    <string name="button_sair">Sair</string>
+</resources>
